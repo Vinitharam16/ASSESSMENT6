@@ -1,0 +1,15 @@
+body{
+    background-color: darkslategrey;
+}
+.header{
+    text-align: center;
+    color: white;
+    font-family: Arial Narrow;
+    font-size:large;
+}
+.card-body{
+    background-image: linear-gradient(to right, rgb(255, 250, 210), rgb(66, 66, 66));
+    color: white;
+    text-align: center;
+    font-family: 'Arial Narrow';
+}
